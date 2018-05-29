@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`A basic test Should match the snapshot 1`] = `
+.emotion-2 {
+  padding: 48px;
+  background-color: #08ed12;
+}
+
+.emotion-0 {
+  font-family: Helvetica;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+<div
+  className="emotion-2 emotion-3"
+>
+  <p
+    className="emotion-0 emotion-1"
+  >
+    Hello World
+  </p>
+</div>
+`;
