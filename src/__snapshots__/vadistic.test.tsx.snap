@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`shorthand div 1`] = `
+.emotion-0 {
+  padding: 20px;
+  background-color: silver;
+}
+
+<div
+  className="emotion-0 emotion-1"
+>
+   Box 
+</div>
+`;

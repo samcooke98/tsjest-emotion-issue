@@ -33,8 +33,7 @@
     "globals": {
       "ts-jest": {
         "tsConfigFile": "../tsconfig.jest-bad.json",
-        "useBabelrc": true,
-        "skipBabel": false
+        "useBabelrc": true
       }
     },
     "transform": {
@@ -53,5 +52,7 @@
       "json",
       "node"
     ]
+  },
+  "scripts": {
   }
 }
